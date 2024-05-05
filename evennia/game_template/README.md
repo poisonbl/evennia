@@ -2,7 +2,7 @@
 
 This is your game directory, set up to let you start with
 your new game right away. An overview of this directory is found here:
-https://github.com/evennia/evennia/wiki/Directory-Overview#the-game-directory
+<https://www.evennia.com/docs/latest/Howtos/Beginner-Tutorial/Part1/Beginner-Tutorial-Gamedir-Overview.html>
 
 You can delete this readme file when you've read it and you can
 re-arrange things in this game-directory to suit your own sense of
@@ -31,10 +31,8 @@ also log into the web client by pointing a browser to
 
 # Getting started
 
-From here on you might want to look at one of the beginner tutorials:
-http://github.com/evennia/evennia/wiki/Tutorials.
+From here on you might want to look at one of the beginner tutorials: <https://www.evennia.com/docs/latest/Howtos/Howtos-Overview.html>.
 
-Evennia's documentation is here:
-https://github.com/evennia/evennia/wiki.
+Evennia's documentation is here: <https://www.evennia.com/docs/latest/>.
 
 Enjoy!
